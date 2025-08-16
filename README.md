@@ -1,1 +1,1 @@
-# StableHoney
+We are building the world’s first honey-backed stablecoin, connecting verified beekeepers directly to consumers through a blockchain-based platform. Every coin is redeemable for physical honey and secured by transparent supply chain verification, NFC tagging, and on-chain proof of reserves.
